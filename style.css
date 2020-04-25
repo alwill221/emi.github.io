@@ -73,6 +73,11 @@ header * {
     justify-content: space-between;
 }
 
+.arrow{
+    width: 50px;
+    border-radius: 10%;
+}
+
 .btn{
     display: inline-block;
   
@@ -113,6 +118,21 @@ position: relative;
 
 }
 
+h4{
+    background-color: black ;
+    width: 50%;
+    margin: auto auto;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+
+.h22{
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
 .rap{
     width: 40%;
     height: auto;
@@ -139,8 +159,34 @@ position: relative;
     border-radius: 10%;
 }
 
+.musicc{
+    width:50px;
+    border-radius: 10px;
+ 
+}
+
 .vid{
     width: 80%;
+}
+
+.youtube{
+    font-size: 50px;
+    letter-spacing: 0.2em;
+    margin-top: 200px;
+
+}
+
+.buy{
+    font-size: 30px;
+    letter-spacing: 0.2em;
+}
+
+.foot{
+    background-color:rgb(2, 81, 105) ;
+    color: blanchedalmond;
+    padding: 20px;
+    margin-top: 80px;
+    border-radius: 90px;
 }
 
 
